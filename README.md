@@ -62,7 +62,7 @@ pip install -U pip setuptools wheel --no-cache-dir && pip install -r requirement
 streamlit run app.py
 ```
 
-> ***OBS.:*** Para acessar o App clique aqui: [http://localhost:8501/](http://localhost:8501/)
+> ***OBS.:*** Para acessar o App clique aqui: [http://localhost:8502](http://localhost:8502)
 
 # Tela do App de Vendas
 
