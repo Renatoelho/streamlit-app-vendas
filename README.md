@@ -60,10 +60,10 @@ pip install -U pip setuptools wheel --no-cache-dir && pip install -r requirement
 
 + Ativando o App Streamlit
 ```bash
-streamlit run app.py
+streamlit run app.py --server.port 8502
 ```
 
-> ***OBS.:*** Para acessar o App clique aqui: [http://localhost:8501](http://localhost:8501)
+> ***OBS.:*** Para acessar o App clique aqui: [http://localhost:8502](http://localhost:8502)
 
 # Tela do App de Vendas
 
