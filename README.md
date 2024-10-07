@@ -6,13 +6,14 @@ Este ***aplicativo*** de base de vendas foi projetado para facilitar a análise 
 
 <!--
 https://www.youtube.com/@renato-coelho
+-->
 
 # Apresentação em vídeo
 
 <p align="center">
-  <a href="https://www.youtube.com/@renato-coelho" target="_blank"><img src="thumbnail/Streamlit-App-Vendas.png" alt="Vídeo de apresentação"></a>
+  <a href="https://youtu.be/MootfcRPVuc" target="_blank"><img src="imagens/thumbnail/thumbnail-github.png" alt="Vídeo de apresentação"></a>
 </p>
--->
+
 
 ### Requisitos
 
