@@ -21,7 +21,7 @@ https://www.youtube.com/@renato-coelho
 
 + ![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04%2B-E3E3E3)
 
-+ ![Python](https://img.shields.io/badge/Python-3.9%2B-E3E3E3)
++ ![Python](https://img.shields.io/badge/Python-3.8%2B-E3E3E3)
 
 + ![Streamlit](https://img.shields.io/badge/Streamlit-1.38.0-E3E3E3)
 
@@ -45,7 +45,7 @@ cd streamlit-app-vendas/app/
 
 + Criando o ambiente virtual
 ```bash
-python3.9 -m venv .venv
+python3 -m venv .venv
 ```
 
 + Ativando o ambiente virtual
